@@ -328,7 +328,7 @@
 
 
 <br clear="both">
-
+#
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ExCod3R/ExCod3R/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ExCod3R/ExCod3R/output/pacman-contribution-graph.svg">
