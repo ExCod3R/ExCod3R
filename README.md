@@ -316,10 +316,25 @@
 <p><a href="https://www.buymeacoffee.com/excod3r"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="excod3r" /></a><a href="https://ko-fi.com/excod3r"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="excod3r" /></a></p><br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=excod3r&label=Profile%20views&color=0e75b6&style=flat" alt="excod3r" /> </p> <br><br>
-###
+
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-###
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ExCod3R/ExCod3R/output/snake.svg" alt="Snake animation" />
+
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ExCod3R/ExCod3R/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ExCod3R/ExCod3R/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ExCod3R/ExCod3R/output/pacman-contribution-graph.svg">
+</picture>
+
+
+
+
