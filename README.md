@@ -295,3 +295,12 @@
 
   <p><a href="https://holopin.io/@denvercoder1"><img src="https://holopin.me/denvercoder1" alt="@denvercoder1&#39;s Holopin board"></a></p>
 </details>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/excod3r"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="excod3r" /></a><a href="https://ko-fi.com/excod3r"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="excod3r" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=excod3r&show_icons=true&locale=en&layout=compact" alt="excod3r" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=excod3r&show_icons=true&locale=en" alt="excod3r" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=excod3r&" alt="excod3r" /></p>
