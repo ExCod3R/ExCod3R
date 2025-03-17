@@ -315,4 +315,11 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/excod3r"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="excod3r" /></a><a href="https://ko-fi.com/excod3r"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="excod3r" /></a></p><br><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=excod3r&label=Profile%20views&color=0e75b6&style=flat" alt="excod3r" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=excod3r&label=Profile%20views&color=0e75b6&style=flat" alt="excod3r" /> </p> <br><br>
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
