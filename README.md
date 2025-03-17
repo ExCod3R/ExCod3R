@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ExCod3R">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1000&width=435&lines=+++++++E+x+C+o+d+3+R" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
