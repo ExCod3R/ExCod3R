@@ -8,6 +8,22 @@
   <a href="https://github.com/ExCod3R"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1000&color=0DAE21&width=800&height=70&lines=Experienced+DevSecOps+Engineer;Full-stack+web+and+app+developer;Always+learning+new+things;10%2B+years+of+coding+experience" alt="Typing SVG" /></a>
 </p>
 
+- 🔭 I’m currently working on **AnonLABZ.com**
+
+- 🌱 I’m currently learning **JAVA, PYTHON, PHP**
+
+- 👯 I’m looking to collaborate on **AnonLABZ Team**
+
+- 👨‍💻 All of my projects are available at [AnonLABZ.com/X](AnonLABZ.com/X)
+
+- 📝 I regularly write articles on [AnonLABZ.com/blog](AnonLABZ.com/blog)
+
+- 💬 Ask me about **IT Related Any Things.**
+
+- 📫 How to reach me **X@AnonLABZ.com**
+
+- 📄 Know about my experiences [AnonLABZ.com/CV](AnonLABZ.com/CV)
+
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.youtube.com/@ExCod3R"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
@@ -299,8 +315,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/excod3r"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="excod3r" /></a><a href="https://ko-fi.com/excod3r"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="excod3r" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=excod3r&show_icons=true&locale=en&layout=compact" alt="excod3r" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=excod3r&show_icons=true&locale=en" alt="excod3r" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=excod3r&" alt="excod3r" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=excod3r&label=Profile%20views&color=0e75b6&style=flat" alt="excod3r" /> </p>
